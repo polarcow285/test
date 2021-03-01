@@ -1,6 +1,6 @@
 Flutter crash report; please file at https://github.com/flutter/flutter/issues.
 
-## command blah blah
+## command blah blah laoslfasolol
 
 flutter --quiet assemble --depfile /Users/natalieleung/Documents/flutter app/BlendingBoardApp/blendingboardapp/build/app/intermediates/flutter/release/flutter_build.d --output /Users/natalieleung/Documents/flutter app/BlendingBoardApp/blendingboardapp/build/app/intermediates/flutter/release -dTargetFile=lib/main.dart -dTargetPlatform=android -dBuildMode=release android_aot_bundle_release_android-arm android_aot_bundle_release_android-arm64 android_aot_bundle_release_android-x64
 
